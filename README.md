@@ -9,3 +9,5 @@ Mentor: Rishab Maheshwari
 - [x] make andorid simulator work [this post](https://stackoverflow.com/questions/55677874/failed-to-launch-emulator-error-emulator-didnt-connect-within-60-seconds)
 
 - [x] commands for making new projects [this post](https://stackoverflow.com/questions/72768245/typeerror-cli-init-is-not-a-function-for-react-native)
+
+- [what is useState in react?](https://www.w3schools.com/react/react_usestate.asp#:~:text=The%20React%20useState%20Hook%20allows,be%20tracking%20in%20an%20application)
