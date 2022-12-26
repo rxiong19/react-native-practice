@@ -11,3 +11,5 @@ Mentor: Rishab Maheshwari
 - [x] commands for making new projects [this post](https://stackoverflow.com/questions/72768245/typeerror-cli-init-is-not-a-function-for-react-native)
 
 - [what is useState in react?](https://www.w3schools.com/react/react_usestate.asp#:~:text=The%20React%20useState%20Hook%20allows,be%20tracking%20in%20an%20application)
+
+- [&& Short circuit evaluation](https://stackoverflow.com/questions/40682064/what-does-operator-indicate-with-this-props-children-react-cloneelemen)
