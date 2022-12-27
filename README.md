@@ -1,7 +1,7 @@
 # react-native-practice
 
-
 ---
+
 Mentor: Rishab Maheshwari
 
 - [x] installation [reactive native web](https://necolas.github.io/react-native-web/docs/installation/) and [react-native offcial web](https://reactnative.dev/docs/environment-setup)
@@ -13,3 +13,7 @@ Mentor: Rishab Maheshwari
 - [what is useState in react?](https://www.w3schools.com/react/react_usestate.asp#:~:text=The%20React%20useState%20Hook%20allows,be%20tracking%20in%20an%20application)
 
 - [&& Short circuit evaluation](https://stackoverflow.com/questions/40682064/what-does-operator-indicate-with-this-props-children-react-cloneelemen)
+
+- Flex box make your ordering View boxes more convenient and beautiful.
+
+- Flatlist will only render the visible items on the list, and render the items when users are about getting there. flat list will automatically look for key property of the item.
