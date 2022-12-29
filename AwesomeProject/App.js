@@ -34,7 +34,9 @@ const App = () => {
   return (
     <>
       <StatusBar style="auto" />
-      {/* StatusBar and view are sibling components, which is not allowed at of root level of JSX. so we add <></> fragment to wrap around them. */}
+      {/* StatusBar and view are sibling components, which is 
+      not allowed at of root level of JSX. so we add <></> fragment 
+      to wrap around them. */}
       <View style={styles.container}>
         <Button
           title="Back to Adding"

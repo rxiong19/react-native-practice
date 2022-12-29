@@ -17,3 +17,7 @@ Mentor: Rishab Maheshwari
 - Flex box make your ordering View boxes more convenient and beautiful.
 
 - Flatlist will only render the visible items on the list, and render the items when users are about getting there. flat list will automatically look for key property of the item.
+
+- [alert](https://reactnative.dev/docs/alert)
+
+## follow [to-do tutorial](https://www.youtube.com/watch?v=VozPNrt-LfE) @ elvira/experiment
